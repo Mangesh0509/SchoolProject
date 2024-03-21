@@ -22,12 +22,12 @@ const StickyIcon1 = () => {
             </a>
         <a href="https://www.youtube.com/"><img
               className="w-12 h-12 my-4 hover:animate-spin transition-transform"
-              src="\public\images\youtube.webp"
+              src="\images\youtube.webp"
               alt=""
             /></a>
             <a href="https://twitter.com/"><img
               className="w-10 h-8 hover:animate-spin transition-transform"
-              src="public/images/logo-black.png.twimg.1920.png"
+              src="/images/logo-black.png.twimg.1920.png"
               alt=""
             /></a>
     </div>

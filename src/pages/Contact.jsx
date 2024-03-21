@@ -28,7 +28,7 @@ function Contact() {
             <div className=" ">
               <iframe
                 className="w-full  p-2 sm:w-[500px] "
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.821858170372!2d75.23292387389755!3d19.84748912730309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdb9b6df9173029%3A0x1d20d2e7adfd03c3!2sBhondawe%20Patil%20Public%20School!5e0!3m2!1sen!2sin!4v1707153963540!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.821858170372!2d75.23292387389755!3d19.84748912730309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdb9b6df9173029%3A0x1d20d2e7adfd03c3!2sBhondawe%20Patil%20%20School!5e0!3m2!1sen!2sin!4v1707153963540!5m2!1sen!2sin"
                 width="500"
                 height="300"
                 allowFullScreen

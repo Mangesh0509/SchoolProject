@@ -10,8 +10,8 @@ const navData = [
   { title: "About Us", linkTo: "about" },
   { title: "Admission", linkTo: "admission" },
   {
-    title: "Mandatory Public Disclosure",
-    linkTo: "mandatory-public-disclosure",
+    title: "Mandatory  Disclosure",
+    linkTo: "mandatory--disclosure",
   },
   { title: "Academic", linkTo: "academic" },
   // { title: "Achievement", linkTo: "achievement" },

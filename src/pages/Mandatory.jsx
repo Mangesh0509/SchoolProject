@@ -7,7 +7,7 @@ function Mandatory() {
        <div className="w-full bg-gray-100  ">
         <div className="w-full  p-2  sm:px-40  ">
           <h1 className="bg-white h-[50px]   font-bold text-1xl text-primary flex justify-center   sm:p-10  sm:h-[150px] sm:text-3xl  ">
-            Mandatory Public Disclosure APPENDIX - IX
+            Mandatory  Disclosure APPENDIX - IX
           </h1>
         </div>
 
@@ -28,7 +28,7 @@ function Mandatory() {
                 <td className="border-primary border-2">NAME OF THE SCHOOL</td>
                 <td className="border-primary border-2">
                   {" "}
-                  Bhondawe Patil Public School
+                  Bhondawe Patil  School
                 </td>
               </tr>
               <tr className="border-primary border-2">
@@ -109,7 +109,7 @@ function Mandatory() {
                 <td className="border-primary border-2">NAME OF THE SCHOOL</td>
                 <td className="border-primary border-2">
                   {" "}
-                  Bhondawe Patil Public School
+                  Bhondawe Patil  School
                 </td>
               </tr>
               <tr className="border-primary border-2">

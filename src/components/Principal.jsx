@@ -8,7 +8,7 @@ function Principal() {
         <br />
         <h3 className='text-center font-semibold'>"EVERY CHILD CAN LEARN AND BE SUCCESSFUL."</h3>
         <p>
-        The core purpose of education is to provide children with a learning environment which brings out the best in them. We believe that every child is endowed with a unique set of attributes and abilities, which need to be nurtured so that they blossom. Therefore, every child deserves an education that fosters academic excellence and all-round development, and ensures their well-being. We are inspired by these tenets in everything that we do at Bhondawe Patil Public School.
+        The core purpose of education is to provide children with a learning environment which brings out the best in them. We believe that every child is endowed with a unique set of attributes and abilities, which need to be nurtured so that they blossom. Therefore, every child deserves an education that fosters academic excellence and all-round development, and ensures their well-being. We are inspired by these tenets in everything that we do at Bhondawe Patil  School.
 
         <br />
           At our school, we provide a learning environment that inspires and motivates children, and encourages them to explore limitless possibilities in their quest for knowledge. Right from inception, our overarching goal will be to make BPPS a HAPPY SCHOOL, where teaching is a pleasure and learning is a joy; where learning and excelling is a passion, and culture and values have a pre-eminent place.

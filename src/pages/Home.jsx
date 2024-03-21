@@ -23,7 +23,7 @@ const Home = () => {
             <h1 className="text-3xl font-bold">
               <span>Welcome to</span>
               <br />
-              Bhondwe patil Public School
+              Bhondwe patil  School
             </h1>
             <p className="text-center p-4">
               Welcome to the abode of intellect where the purpose of education
@@ -31,7 +31,7 @@ const Home = () => {
               proficiency; to empower him with the skills in order to realize
               his God gifted potential; to creole the light climate so that the
               child may develop fully as a complete human being at BHONDAWE
-              PATIL PUBLIC SCHOOL, one's intellect is I transformed into an
+              PATIL  SCHOOL, one's intellect is I transformed into an
               illuminated reflection of knowledge and broad outlook towards
               life.
             </p>
@@ -50,7 +50,7 @@ const Home = () => {
         </div>
 
         <div className="sm:w-[1500px] sm:h-auto w-full m-2 ">
-          <img className="" src="public/images/bg-1.jpg" alt="" />
+          <img className="" src="/images/bg-1.jpg" alt="" />
         </div>
       </div>
       {/* <StickyIcon /> */}

@@ -57,17 +57,17 @@ const Footer = () => {
           <div className="flex gap-4 mt-3 ">
             <img
               className="w-12 h-12 hover:translate-x-3 transition-transform"
-              src="\public\images\facebook.webp"
+              src="\images\facebook.webp"
               alt=""
             />
             <img
               className="w-12 h-12 hover:translate-x-3 transition-transform"
-              src="\public\images\instagram.webp"
+              src="\images\instagram.webp"
               alt=""
             />
             <img
               className="w-12 h-12 hover:translate-x-3 transition-transform"
-              src="\public\images\youtube.webp"
+              src="\images\youtube.webp"
               alt=""
             />
           </div>
