@@ -3,7 +3,7 @@ import React from 'react'
 function Principal() {
   return (
     <div>
-       <div className="border-2 sm:ml-24 sm:mr-24 sm:p-8 m-1 p-2 text-[18px] font-mono rounded-lg bg-slate-50">
+       <div className="border-2 sm:w-[1010px] sm:ml-24 sm:mr-24 sm:p-8 m-1 p-2 text-[18px] font-mono rounded-lg bg-slate-50">
         <h1 className="text-center font-bold text-3xl">Words of our Principal</h1>
         <br />
         <h3 className='text-center font-semibold'>"EVERY CHILD CAN LEARN AND BE SUCCESSFUL."</h3>

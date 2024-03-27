@@ -12,6 +12,8 @@ import Contact from "./pages/Contact";
 import Mandatory from "./pages/Mandatory";
 import Admission from "./pages/Admission";
 import Footer from "./components/Footer";
+import StickyIcon1 from "./components/StickyIcon1";
+import WhatsApp from "./components/WhatsApp";
 
 
 
@@ -40,6 +42,8 @@ function App() {
       </div>
       {/* Footer */}
       <Footer/>
+      <WhatsApp/>
+      <StickyIcon1/>
     </>
   );
 }

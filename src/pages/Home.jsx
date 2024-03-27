@@ -1,7 +1,6 @@
 import React from "react";
 import Slider from "../components/Slider";
-import StickyIcon1 from "../components/StickyIcon1";
-import WhatsApp from "../components/WhatsApp";
+
 
 const Home = () => {
   return (
@@ -53,9 +52,7 @@ const Home = () => {
           <img className="" src="/images/bg-1.jpg" alt="" />
         </div>
       </div>
-      {/* <StickyIcon /> */}
-      <StickyIcon1/>
-      <WhatsApp />
+    
 
     </div>
   );

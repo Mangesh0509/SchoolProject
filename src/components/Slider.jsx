@@ -35,7 +35,7 @@ export default function App() {
           <img src=".\images\slide-1.webp" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src=".\images\slide-2.webp" />
+          <img src="/images/slide-2 .webp" />
         </SwiperSlide>
         <SwiperSlide>
           <img src=".\images\slide-3.webp" />

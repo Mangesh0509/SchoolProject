@@ -5,7 +5,8 @@ const StickyIcon1 = () => {
 
 
     <div className='animate-opacity '>
-    <div className='ml-2 inner-div fixed bottom-72 z-10 right-2  '>
+    <div className='ml-2  fixed bottom-6 sm:bottom-72 pt-30 right-2   '>
+      <div className=" "> 
         <a href="https://www.facebook.com/">
             <img
               className="w-12 h-12 hover:animate-spin transition-transform"
@@ -30,6 +31,7 @@ const StickyIcon1 = () => {
               src="/images/logo-black.png.twimg.1920.png"
               alt=""
             /></a>
+            </div>
     </div>
 </div>
 

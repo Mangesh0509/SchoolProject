@@ -11,8 +11,7 @@ const Admission = () => {
            <div className="sm:py-3 px-2 flex justify-center my-6 ">
           <iframe 
             width="950"
-            sm:height="450"
-            height='200'
+            height='500'
             src="https://www.youtube.com/embed/cuIFuOVG9eA?si=bqe3AIxWz81NqsR8"
             title="YouTube video player"
             frameborder="0"

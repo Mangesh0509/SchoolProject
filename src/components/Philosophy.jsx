@@ -2,7 +2,7 @@ import React from 'react'
 function Philosophy() {
   return (
     <div>
-     <div className="border-2 sm:ml-24 sm:mr-24 sm:p-8 m-1 p-2 text-[18px] font-mono  rounded-lg bg-slate-50">
+     <div className="border-2 sm:w-[1010px] sm:ml-24 sm:mr-24 sm:p-8 m-1 p-2 text-[18px] font-mono  rounded-lg bg-slate-50">
         <h1 className="text-center font-bold text-lg">Philosophy</h1>
         <p>The essense and philosophy of our school centres around ....</p>
       
